@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishore</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&random=false&width=435&lines=Aspiring+Full+Stack+Web+Developer;Artificial+Intelligence+And+Data+Science+Under+Graduate" alt="Typing SVG" /></a>
+<a align="center"href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&random=false&width=435&lines=Aspiring+Full+Stack+Web+Developer;Artificial+Intelligence+And+Data+Science+Under+Graduate" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning **React**
 
