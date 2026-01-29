@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 2nd Year Engineering Student (AI & Data Science)
+- 🎓 3rd Year Engineering Student (AI & Data Science)
 - 💻 Passionate about **Full Stack Development & AI-driven applications**
 - 🚀 Building real-world projects using **MERN Stack**
 - 📫 Reach me at: **johnkishore43@gmail.com**
